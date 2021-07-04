@@ -1,0 +1,100 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#contenido {
+    padding: 10px;
+    width: 70%;
+    margin-left: 15%;
+}
+
+#desayuno {
+    background-color: #E8C3FF;
+    padding: 10px;
+}
+#almuerzo {
+    background-color: #F5CBCC;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#cena {
+    background-color: #BDD1FF;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#postre {
+    background-color: #FFF5D3;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#desayuno li img {
+    float: right;
+}
+#almuerzo li img {
+    float: right;
+}
+#cena li img {
+    clear: right;
+    float: right;
+    padding-top: 125px;
+}
+#postre li img {
+    float: right;
+}
+#t5 {
+    background-color: #DCFBC0;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#header {
+    background-image: url(../imagenes/header.jpg);
+    padding: 10px;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-left: auto;
+	
+}
+#header {
+    background-image: url(../imagenes/header.jpg);
+    padding: 10px;
+    height: 335px;
+    width: 1015px;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-left: auto;
+	
+}
+#header {
+    background-image: url(../imagenes/header1.PNG);
+    padding: 10px;
+    height: 300px;
+    width: 1300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+	
+}
+#header {
+    background-image: url(../imagenes/header1.PNG);
+    padding: 10px;
+    height: 300px;
+    width: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#menu {
+    background-color: #E8A3A5;
+    padding-top: 80px;
+    padding-right: 80px;
+    padding-left: 80px;
+    padding-bottom: 80px;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-left: auto;
+    position: fixed
+}
